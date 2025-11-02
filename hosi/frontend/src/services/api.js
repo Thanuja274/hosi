@@ -1,5 +1,5 @@
 // src/services/api.js
-const API_BASE_URL = 'http://localhost:8080/api';
+const API_BASE_URL = 'https://online-hospital-management-backend.onrender.com';
 
 // Helper function to get auth token
 const getAuthToken = () => {
